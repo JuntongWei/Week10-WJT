@@ -1,0 +1,11 @@
+---
+title: 'ETC5513: Week 10 Tutorial'
+author: 'Juntong Wei'
+data: "`r Sys.Date()`"
+output:
+  bookdown::html_document2
+---
+```{r libraries, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
